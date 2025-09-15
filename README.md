@@ -95,4 +95,4 @@ This project focuses on **customer segmentation using data science techniques** 
 ## 📑 Project Presentation
 
 You can view the full presentation here:  
-[📂 Marketing Customer Segmentation Presentation](https://docs.google.com/presentation/d/19McG_ObtLDamZ2qNMEkjIQkqm4wiQfVk/edit?usp=sharing&ouid=104020003938981424673&rtpof=true&sd=true)
+[📂 Marketing Customer Segmentation Presentation](https://docs.google.com/presentation/d/1vDinwFMC6xnaTCFgIsbe1R_VDAFXejVN/edit?usp=sharing&ouid=104020003938981424673&rtpof=true&sd=true)
